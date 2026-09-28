@@ -1,0 +1,6 @@
+{
+  "name": "AI HUB 360",
+  "description": "Everything AI. One powerful workspace. Chat, learn, create, translate, code and work smarter in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
